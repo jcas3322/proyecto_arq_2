@@ -1,1 +1,3 @@
-# proyecto_arq_2
+# Proyecto Final Arquitectura de Computadoras II
+# Christopher Sandoval
+# Julio Aguilar
